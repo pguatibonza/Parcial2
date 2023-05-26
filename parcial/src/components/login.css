@@ -1,0 +1,8 @@
+.my-form {
+    margin: 0 auto; /* Centrar el formulario horizontalmente */
+    max-width: 400px; /* Ancho máximo del formulario */
+    background-color: rgb(248, 105, 248); /* Color de fondo */
+    padding: 20px; /* Espacio interno alrededor del formulario */
+    border: 1px solid rgb(0, 0, 0); /* Margen delineada */
+    border-radius: 5px; /* Bordes redondeados */
+  }
