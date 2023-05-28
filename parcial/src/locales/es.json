@@ -1,0 +1,14 @@
+{
+    "Login":"Inicio de sesión",
+    "UserName":"Nombre de usuario",
+    "Password":"Contraseña",
+    "login":"Ingresar",
+    "Cancel":"Cancelar",
+    "Error":"Error de autenticación. Revise sus credenciales",
+    "Name": "Nombre",
+    "Type": "Tipo",
+    "Region": "Región",
+    "Cultivated":"Cultivado a una altura de",
+    "Notes":"Notas",
+    "asl" : "msnm"
+}

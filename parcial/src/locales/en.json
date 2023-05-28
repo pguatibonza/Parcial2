@@ -1,0 +1,16 @@
+{
+    
+    "Login":"Login",
+    "UserName":"Username",
+    "Password":"Password",
+    "login":"login",
+    "Cancel":"Cancel",
+    "Error":"Credentials error. Check your credentials",
+    "Name": "Name",
+    "Type": "Type",
+    "Region": "Region",
+    "Cultivated":"Cultivated at a height of",
+    "Notes":"Notes",
+    "asl" : "asl"
+
+}
